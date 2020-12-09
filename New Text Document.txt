@@ -1,0 +1,19 @@
+project setup 
+-------------
+
+
+Black color #010101
+
+blue light #313841
+
+ash color  #898989
+
+yellow     #fcdb00
+
+
+
+
+
+md       sm          col
+h1       32px        26px
+h3       same        same
